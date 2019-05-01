@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "51585816674",
+    "firebase_url": "https://hazardracer.firebaseio.com",
+    "project_id": "hazardracer",
+    "storage_bucket": "hazardracer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51585816674:android:98805ad7f3950442",
+        "android_client_info": {
+          "package_name": "com.nicolas.hazardracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51585816674-6g78p7op2ojoq11fbvpeb2r50gabqvje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW_FKERXddNoYSdr2SQ8f9a_FuNXlZLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
